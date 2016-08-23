@@ -1,0 +1,721 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="gb2312">
+    <title>QQ彩票 - 腾讯信誉,福利彩票,体育彩票投注</title>
+    <meta name="keywords" content="彩票,福利彩票,体育彩票" />
+    <meta name="description" content="QQ彩票(888.qq.com)购买平台提供体彩、福彩等国家合法彩票投注,合买,中奖查询等服务,是腾讯公司旗下的服务于中国彩民的互联网福利彩票,体育彩票投注,彩票合买平台。" />
+    <script type="application/javascript">var speedTimePoint=[[(new Date ()),1571,1,1]];</script>
+    <!--#include file="/v1.0/inc/css/css-index-v3.html"-->
+    <!--#set var="notUSeCoreCpGlobal" value="true" -->
+    <style type="text/css">
+        .mod-slider .mod-slide-nav{z-index: 11;}
+    </style>
+</head>
+<body>
+<!-- S头部广告位 -->
+<div class="index-top-banner banner" style="position:relative; display:none;height: 60px; cursor:pointer;" id="box_adb_14274_10127327">
+    <div class="banner-content">
+        <span class="icon-closer"></span>
+    </div>
+    <script type="text/javascript">
+        var _ADB_Crystal_Data = _ADB_Crystal_Data || [];
+        _ADB_Crystal_Data.unshift({'id': 'box_adb_14274_10127327', 'url': 'http://lb.l.qq.com/lview?loc=_adb_14274_10127327&callback=adCallback'});
+        var fun_adb_14274_10127327 = {
+            'callback':function(_ad){CP.index.adDisplayInBackground(_ad)}
+        }||{};
+    </script>
+</div>
+<!-- E头部广告位 -->
+<!--#include virtual="/v1.0/include_html/qq_caipiao/header_info_v3.shtml?${QUERY_STRING}" -->
+<script type="application/javascript">speedTimePoint.push(new Date ());</script>
+<!-- S 左右悬浮广告 -->
+<div class="main-banner banner" style="display: none; height: 493px;" id="box_adb_14274_10127334">
+    <div class="banner-content">
+        <span class="icon-closer icon-closer-left"></span>
+        <span class="icon-closer icon-closer-right"></span>
+        <a class="banner-left" target="_blank"></a>
+        <a class="banner-right" target="_blank"></a>
+    </div>
+
+    <script type="text/javascript">
+        var _ADB_Crystal_Data = _ADB_Crystal_Data || [];
+        _ADB_Crystal_Data.unshift({'id': 'box_adb_14274_10127334', 'url': 'http://lb.l.qq.com/lview?loc=_adb_14274_10127334&callback=adCallback'});
+        var fun_adb_14274_10127334 = {
+            'callback': function (_ad) {
+                CP.index.adSides(_ad)
+            }
+        } || {};
+    </script>
+</div>
+<!-- E 左右悬浮广告 -->
+
+<!-- S 主内容区 -->
+<div class="main-content" role="main">
+<!-- S 楼层一 -->
+<div class="floor first-floor clearfix">
+<!-- S 侧栏彩种导航 -->
+<div class="index-list-lottery" id="js_index_list_lottery">
+    <ul class="list-lottery-main" id="main_navigation_left">
+        <!--#include virtual="/v1.0/sinclude/PC_home_nav_big_gbk.html" -->
+    </ul>
+    <ul class="cp-list-inline list-lottery-extra">
+        <!--#include virtual="/v1.0/sinclude/PC_home_nav_small_gbk.html" -->
+    </ul>
+    <div class="more-lottery-list" id="js_more_lottery_list">
+        <a class="more-lottery-btn" href="#nogo">
+            <span>更多</span>
+            <i class="ui-icon icon-arrow-right"></i>
+        </a>
+
+        <div class="more-lottery-panel">
+            <ul class="cp-list-inline list-lottery-extra">
+                <!--#include virtual="/v1.0/sinclude/PC_home_nav_more_gbk.html" -->
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- E 侧栏彩种导航 -->
+<!-- S 第一屏主内容推广区 -->
+<div class="promotion clearfix">
+    <div class="promotion-main">
+        <div class="promotion-pic">
+            <!-- S 图片轮播模块 -->
+            <div class="mod-slider" id="js_ad_slider">
+                <!-- 资源容器结构 -->
+                <ul class="mod-slide-cont" style="width:480; height: 250px;">
+                    <li class="slide-item">
+                        <div id="box_adb_14274_10127328">
+                            <script type="text/javascript">
+                                var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                                _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10127328','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10127328&callback=adCallback'});
+                            </script>
+                        </div>
+                    </li>
+                    <li class="slide-item">
+                        <div id="box_adb_14274_10127329">
+                            <script type="text/javascript">
+                                var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                                _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10127329','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10127329&callback=adCallback'});
+                            </script>
+                        </div>
+                    </li>
+                    <li class="slide-item">
+                        <div id="box_adb_14274_10127330">
+                            <script type="text/javascript">
+                                var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                                _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10127330','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10127330&callback=adCallback'});
+                            </script>
+                        </div>
+                    </li>
+                    <li class="slide-item">
+                        <div id="box_adb_14274_10127331">
+                            <script type="text/javascript">
+                                var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                                _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10127331','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10127331&callback=adCallback'});
+                            </script>
+                        </div>
+                    </li>
+                    <li class="slide-item">
+                        <div id="box_adb_14274_10127332">
+                            <script type="text/javascript">
+                                var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                                _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10127332','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10127332&callback=adCallback'});
+                            </script>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- E 图片轮播模块 -->
+        </div>
+        <!-- S 快速投注 -->
+        <div class="promotion-bet" id="digital_quick_buy_wrapper">
+            <div class="quick-bet">
+                <h2 class="quick-bet-title"><i class="ui-icon icon-8"></i>快速投注</h2>
+                <!-- S 彩种tab切换 -->
+                <div class="ui-tab" id="quick_bet_ui_tab">
+                    <ul class="ui-tab-nav" id="digital_quick_menu">
+                        <li class="tab-cur" data-type="ssq"><a href="javascript:void(0);">双色球</a></li>
+                        <!--<li data-type="dlt"><a href="javascript:void(0);">大乐透</a></li>
+                        <li data-type="fc3d"><a href="javascript:void(0);">福彩3D</a></li>-->
+                    </UL>
+                    <div class="ui-tab-cont">
+                        <ul class="ui-tab-item">
+                            <li class="tab-panel">
+                                <div class="quick-bet-contain">
+                                    <ul class="ball-list" id="bet_ssq">
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="08" maxlength="2"></li>
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="06" maxlength="2"></li>
+                                        <li><input type="text" value="09" maxlength="2"></li>
+                                        <li><input  class="ball-blue" type="text" value="01" maxlength="2"></li>
+                                    </ul>
+                                    <div class="bet-ft">
+                                        <div class="repeat-tips" id="repeat_ssq"><em>号码重复，请修改！</em></div>
+                                        <div class="bets-item clearfix" id="bet_exinfo_ssq">
+                                            <span class="bet-issue">2014251期</span>
+                                            <span class="bet-accu">2元可中1248元，天天开奖</span>
+                                            <span class="bet-end-time" id="endTime_ssq">-天-小时-分-秒后截止</span>
+                                        </div>
+                                        <div class="ui-btn-group">
+                                            <a href="#nogo" class="ui-btn btn-default jx-num">换一注</a>
+                                            <a href="#nogo" class="ui-btn btn-primary go-buy">立即投注</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="tab-panel">
+                                <div class="quick-bet-contain">
+                                    <ul class="ball-list" id="bet_dlt">
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="08" maxlength="2"></li>
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="06" maxlength="2"></li>
+                                        <li><input class="ball-blue" type="text" value="01" maxlength="2"></li>
+                                        <li><input class="ball-blue" type="text" value="01" maxlength="2"></li>
+                                    </ul>
+                                    <div class="bet-ft">
+                                        <div class="repeat-tips repeat" id="repeat_dlt"><em>号码重复，请修改！</em></div>
+                                        <div class="bets-item clearfix" id="bet_exinfo_dlt">
+                                            <span class="bet-issue">2014251期</span>
+                                            <span class="bet-accu">2元可中1248元，天天开奖</span>
+                                            <span class="bet-end-time" id="endTime_dlt">-天-小时-分-秒后截止</span>
+                                        </div>
+                                        <div class="ui-btn-group">
+                                            <a href="#nogo" class="ui-btn btn-default jx-num" rel="nofollow">换一注</a>
+                                            <a href="#nogo" class="ui-btn btn-primary go-buy" rel="nofollow">立即投注</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="tab-panel">
+                                <div class="quick-bet-contain quick-bet-fc3d">
+                                    <ul class="ball-list" id="bet_fc3d">
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="01" maxlength="2"></li>
+                                        <li><input type="text" value="08" maxlength="2"></li>
+                                    </ul>
+                                    <div class="bet-ft">
+                                        <div class="cp-logo cp-logo-63-fc3d"></div>
+                                        <div class="bets-item clearfix" id="bet_exinfo_fc3d">
+                                            <span class="bet-issue">2014251期</span>
+                                            <span class="bet-accu">2元可中1248元，天天开奖</span>
+                                            <span class="bet-end-time" id="endTime_fc3d">-天-小时-分-秒后截止</span>
+                                        </div>
+                                        <div class="ui-btn-group">
+                                            <a href="#nogo" class="ui-btn btn-default jx-num" rel="nofollow">换一注</a>
+                                            <a href="#nogo" class="ui-btn btn-primary go-buy" rel="nofollow">立即投注</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <!-- E 彩种tab切换 -->
+            </div>
+        </div>
+        <!-- E 快速投注 -->
+    </div>
+    <div class="promotion-txt">
+        <!-- S 公告&腾讯公益tab切换 -->
+        <div class="promotion-notice">
+            <div class="ui-tab" id="js_tab_right">
+                <ul class="ui-tab-nav">
+                    <li class="tab-cur"><a href="javascript:void(0);">公告</a></li>
+                    <li><a href="javascript:void(0);">腾讯公益</a></li>
+                </ul>
+                <div class="ui-tab-cont">
+                    <ul class="ui-tab-item">
+                        <li class="tab-panel">
+                            <ul class="cp-list-text announce-list">
+                                <!--#include virtual="/static/v1.0/index_home_2014_gonggao.html"-->
+                            </ul>
+                            <a target="_blank" class="fr more" href="/news/news/1.shtml?bc_tag=40094.8.3">更多>></a>
+                        </li>
+                        <li class="tab-panel">
+                            <div class="gongyi-box">
+                                <a target="_blank" href="http://gongyi.qq.com/?ticket=20130627145041788631&bc_tag=40094.8.4" class="logo-gongyi">腾讯公益</a>
+                                <p class="txt">历史善款总额：<span id="count_total">--</span>元</p>
+                                <p class="txt">历史爱心总人次：<span id="people_total">--</span>人次</p>
+                                <div class="ui-btn-group">
+                                    <a target="_blank" href="http://gongyi.qq.com/loveplan/?ticket=20130627145041788631&bc_tag=40094.8.5" class="ui-btn btn-primary" rel="nofollow">我要捐款</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- E 公告&腾讯公益tab切换 -->
+        <!-- S 大奖聚焦 -->
+        <div class="page-item big-prize">
+            <h2 class="title"><i class="ui-icon icon-dot"></i>大奖聚焦</h2>
+            <a target="_blank" href="/promote/party/2013/0627_djztmb/?bc_tag=40094.3.38" title="大奖聚焦" class="link-more" rel="nofollow">更多</a>
+            <ul class="cp-list-text">
+                <!--#include virtual="/static/v1.0/index_home_2014_dajiang.html"-->
+            </ul>
+        </div>
+        <!-- E 大奖聚焦 -->
+    </div>
+</div>
+<!-- E 第一屏主内容推广区 -->
+<script type="application/javascript">speedTimePoint.push(new Date ());</script>
+</div>
+<!-- E 楼层一 -->
+<!-- S 中奖统计信息 -->
+<div class="reward-statistics clearfix">
+    <div class="statistics-money">累计中奖<span><em class="highlight-txt">101</em>亿<em class="highlight-txt">5172</em>万</span>元</div>
+    <div class="statistics-people">中奖人次累计<span><em class="highlight-txt">1</em>亿<em class="highlight-txt">4832</em>万</span>人</div>
+
+    <!--<div class="statistics-money hide">累计中奖<span id="js_stats_prize">--</span>元</div>
+    <div class="statistics-people hide">中奖人次累计<span id="js_stats_people">--</span>人</div>-->
+    <div class="statistics-user" id="js_index_award_list">
+        <ul>
+            <!--<li><span>陈***</span><span>广东十一选5</span><span>中奖<em class="highlight-txt">540</em>元</span></li>-->
+        </ul>
+    </div>
+</div>
+<!-- S 中奖统计信息 -->
+
+<!-- 这里是以前楼层二的三个模块(888pc.index.jcns 888pc.index.luckyNum 888pc.index.quickbetting), 如果需要用的话请去掉注释 -->
+<!-- S 楼层二 -->
+<!--<div class="floor second-floor clearfix">
+    &lt;!&ndash; S 今日财运 &ndash;&gt;
+    <div class="page-item today-luck" id="js_index_luckyNum_wrapper">
+        <h2 class="title"><i class="ui-icon icon-dot"></i>今日财运</h2>
+        <div class="info clearfix">
+            <img class="xz-logo" id="js_index_luckyNum_img">
+            <div class="xz-txt">
+                <h4 class="t"><em id="js_index_luckyNum_sign_name">白羊座</em><span id="js_index_luckyNum_sign_time_range">(3.21 - 4.20)</span></h4>
+                <p id="js_index_luckyNum_sign_text">今日失业运很旺，有机会获得领导权！</p>
+            </div>
+        </div>
+        <div class="bet-ft index-bet-ft">
+            <div class="bets-item">幸运数字：<em id="js_index_luckyNum_num">16</em></div>
+            <div class="ui-btn-group">
+                <a href="#nogo" class="ui-btn btn-primary" rel="nofollow" id="js_index_luckyNum_bet">立即投注</a>
+            </div>
+        </div>
+        <div class="load-img" style="display: block"></div>
+    </div>
+    &lt;!&ndash; E 今日财运 &ndash;&gt;
+    &lt;!&ndash; S 即将开奖 &ndash;&gt;
+    <div class="page-item quick-recommend-kp" id="quick_betting_container">
+        <script type="text/javascript">
+            &lt;!&ndash;#include file="/v1.0/sinclude/quickbetting/ppms_2871_1546_gbk_js.js"&ndash;&gt;  &lt;!&ndash; 首页快捷投注设置 &ndash;&gt;
+        </script>
+        <h2 class="title"><i class="ui-icon icon-dot"></i><span class="issuetitle"></span></h2>
+        &lt;!&ndash; S 杀一全包模块 &ndash;&gt;
+        <div class="recommend-kp hide"  id="gdxR5">
+            <div class="recommend-kp-hd">
+        <span class="lottery-name">
+            <span>粤11选5</span>
+            <i class="ui-icon icon-addprize cp-icon-jiajiang hide">加奖</i>
+        </span>
+                <div class="count-time js_qihao_count_time_wrapper">
+                    <span class="hide" id="js_switch_issue">期号切换</span>
+                    <span class="cur_qihao"></span>
+                    <span class="js_countdown_time"></span>
+                </div>
+            </div>
+            <div class="recommend-kp-bd">
+                <div class="txt-info">
+                    <p><em>任五杀一全包</em>：选<em>1</em>个觉得<em>不会出</em>的号码，其他号码全包</p>
+                </div>
+                <div class="cp-ball-list ball-gdx-hold">
+                    <span class="ball ball-red">01</span>
+                    <span class="ball ball-red">02</span>
+                    <span class="ball ball-red">03</span>
+                    <span class="ball ball-red">04</span>
+                    <span class="ball ball-red">05</span>
+                    <span class="ball ball-red">06</span>
+                    <span class="ball ball-red">07</span>
+                    <span class="ball ball-red">08</span>
+                    <span class="ball ball-red">09</span>
+                    <span class="ball ball-red">10</span>
+                    <span class="ball ball-red">11</span>
+                </div>
+
+            </div>
+            <div class="recommend-kp-ft index-bet-ft">
+                <div class="bets-item issuedesc"></div>
+                <div class="ui-btn-group">
+                    <a href="javascript:void(0);" class="ui-btn btn-default random-btn">换一注</a>
+                    <a href="javascript:void(0);" class="ui-btn btn-primary js_buy_btn" id="go_buy_gdx1">立即投注</a>
+                </div>
+            </div>
+        </div>
+        &lt;!&ndash; E 杀一全包模块 &ndash;&gt;
+
+        &lt;!&ndash; S 任三两胆全拖模块 &ndash;&gt;
+        <div class="recommend-kp hide" id="gdxR3">
+            <div class="recommend-kp-hd">
+        <span class="lottery-name">
+            <span>粤11选5</span>
+            <i class="ui-icon icon-addprize cp-icon-jiajiang">加奖</i>
+        </span>
+                <div class="count-time js_qihao_count_time_wrapper">
+                    <span class="hide" id="js_switch_issue">期号切换</span>
+                    <span class="cur_qihao"></span>
+                    <span class="js_countdown_time"></span>
+                </div>
+            </div>
+            <div class="recommend-kp-bd">
+                <div class="txt-info">
+                    <p><em>任三两胆全拖</em>：选<em>2</em>个觉得一定会开出的号码为胆码，号码全包</p>
+                </div>
+                <div class="cp-ball-list ball-gdx-hold">
+                    <span class="ball ball-red">01</span>
+                    <span class="ball ball-red">02</span>
+                    <span class="ball ball-red">03</span>
+                    <span class="ball ball-red">04</span>
+                    <span class="ball ball-red">05</span>
+                    <span class="ball ball-red">06</span>
+                    <span class="ball ball-red">07</span>
+                    <span class="ball ball-red">08</span>
+                    <span class="ball ball-red">09</span>
+                    <span class="ball ball-red">10</span>
+                    <span class="ball ball-red">11</span>
+                </div>
+
+            </div>
+            <div class="recommend-kp-ft index-bet-ft">
+                <div class="bets-item issuedesc"></div>
+                <div class="ui-btn-group">
+                    <a href="javascript:void(0);" class="ui-btn btn-default random-btn">换一注</a>
+                    <a href="javascript:void(0);" class="ui-btn btn-primary js_buy_btn" id="go_buy_gdx2">立即投注</a>
+                </div>
+            </div>
+        </div>
+        &lt;!&ndash; E 任三两胆全拖模块 &ndash;&gt;
+
+        &lt;!&ndash; S 任二遗漏模块 &ndash;&gt;
+        <div class="recommend-kp hide" id="gdxR2">
+            <div class="recommend-kp-hd">
+        <span class="lottery-name">
+            <span>粤11选5</span>
+            <i class="ui-icon icon-addprize cp-icon-jiajiang hide">加奖</i>
+        </span>
+                <div class="count-time js_qihao_count_time_wrapper"><span class="cur_qihao"></span><span class="js_countdown_time"></span></div>
+            </div>
+            <div class="recommend-kp-bd">
+                <div class="txt-info">
+                    <p><em>任二遗漏</em>：这组靓号已经<em id="lryl_max_value">30</em>期未开出，平均<em>5.5</em>期出<em>1</em>次</p>
+                </div>
+                <div class="cp-ball-list cp-ball-no-click">
+                    <span class="ball ball-red ball-red-active"></span>
+                    <span class="ball ball-red ball-red-active"></span>
+                </div>
+            </div>
+            <div class="recommend-kp-ft index-bet-ft">
+                <div class="bets-item bets-item-center issuedesc"></div>
+                <div class="ui-btn-group">
+                    <a href="javascript:void(0);" class="ui-btn btn-primary js_buy_btn" id="go_buy_gdx3">立即投注</a>
+                </div>
+            </div>
+        </div>
+        &lt;!&ndash; E 任二遗漏模块 &ndash;&gt;
+
+        &lt;!&ndash; S 即将开奖模块 &ndash;&gt;
+        <div class="recommend-kp hide" id="k3">
+            <div class="recommend-kp-hd">
+        <span class="lottery-name">
+            <span>江苏快3</span>
+            <i class="ui-icon icon-addprize cp-icon-jiajiang">加奖</i>
+        </span>
+                <div class="count-time js_qihao_count_time_wrapper"><span class="cur_qihao"></span><span class="js_countdown_time"></span></div>
+            </div>
+            <div class="recommend-kp-bd">
+                <div class="cp-dice-list" id="js_jjkj_k3">
+                    <a href="javascript:void(0);" class="dice dice-x" id="js_dice_0"></a>
+                    <span class="ico-symbol">+</span>
+                    <a href="javascript:void(0);" class="dice dice-2" id="js_dice_1"></a>
+                    <span class="ico-symbol">+</span>
+                    <a href="javascript:void(0);" class="dice dice-3" id="js_dice_2"></a>
+                    <span class="ico-symbol">=</span>
+                    <span class="result" id="js_txt_dice_hz">13</span>
+                </div>
+                <div class="hz-award">和值奖金：<span id="js_txt_jj_hz">12</span>元
+                    <i class="ui-icon icon-ask" title="和值数值与开奖的3个号码相加的数值一致即中奖。不同的和值奖金金额不等。"></i>
+                </div>
+            </div>
+            <div class="recommend-kp-ft index-bet-ft">
+                <div class="bets-item issuedesc">每10分钟一期，每天开奖82期，返奖率59%</div>
+                <div class="ui-btn-group">
+                    <a href="javascript:void(0);" class="ui-btn btn-default random-btn" id="js_btn_dice_random">换一注</a>
+                    <a href="javascript:void(0);" class="ui-btn btn-primary js_buy_btn" id="go_buy_k3">立即投注</a>
+                </div>
+            </div>
+        </div>
+        &lt;!&ndash; E 即将开奖模块 &ndash;&gt;
+    </div>
+    &lt;!&ndash; E 即将开奖 &ndash;&gt;
+    &lt;!&ndash; S 女神推荐 &ndash;&gt;
+    <div class="page-item girl-recommend" id="js_index_jcns">
+        <h2 class="title"><i class="ui-icon icon-dot"></i>女神推荐</h2>
+        <a href="#nogo" title="女神推荐" class="link-change" rel="nofollow" id="js_index_jcns_change"><i class="ui-icon icon-change"></i>换一组</a>
+
+        <div class="page-item-bd">
+            <div style="display: block;" class="load-img"></div>
+
+            <div class="girl-recommend-content hide">
+                <div class="match-info">
+                    &lt;!&ndash;<div class="match-item first-item">
+                        <span>阿森纳<i class="ui-icon icon-match-succ">胜</i></span>
+                        <span class="vs">vs</span>
+                        <span>利物浦</span>
+                    </div>&ndash;&gt;
+                </div>
+                <div class="bet-ft index-bet-ft" id="js_index_jcns_betBar">
+                    <div class="bets-item">投10元，预测奖金<span class="highlight-txt" id="js_index_jcns_bonus">&#45;&#45;</span>元</div>
+                    <div class="ui-btn-group">
+                        <a class="ui-btn btn-primary" href="#nogo" id="js_index_jcns_buy">立即投注</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="girl-no-match clearfix">
+                <div class="girl-logo"></div>
+                <div class="no-match-bd">
+                    <p>今日无赛事，去APP上玩玩吧</p>
+                    <a class="ui-btn btn-default" href="/m.html?bc_tag=40094.15.1">去下载APP</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    &lt;!&ndash; E 女神推荐 &ndash;&gt;
+</div>-->
+<!-- E 楼层二 -->
+
+<div class="ad-floor clearfix">
+    <ul>
+        <li class="ad-floor-item">
+            <div id="box_adb_14274_10133750">
+                <script type="text/javascript">
+                    var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                    _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10133750','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10133750&callback=adCallback'});
+                </script>
+            </div>
+        </li>
+        <li class="ad-floor-item">
+            <div id="box_adb_14274_10133751">
+                <script type="text/javascript">
+                    var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                    _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10133751','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10133751&callback=adCallback'});
+                </script>
+            </div>
+        </li>
+        <li class="ad-floor-item">
+            <div id="box_adb_14274_10133752">
+                <script type="text/javascript">
+                    var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+                    _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10133752','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10133752&callback=adCallback'});
+                </script>
+            </div>
+        </li>
+    </ul>
+</div>
+
+<!-- S 楼层三 -->
+<div class="floor thirst-floor forth-floor clearfix">
+<!-- S 最新合买 -->
+<div class="page-item hemai-hot hide">
+    <h2 class="title"><i class="ui-icon icon-dot"></i>最新合买</h2>
+    <a target="_blank" href="/channel/prj_center.php?bc_tag=40094.3.35" title="合买方案" class="link-more">更多</a>
+    <!-- S 合买轮播 -->
+    <div class="mod-slider" id="js_hemai_slider">
+        <!-- 资源容器结构 -->
+        <div class="mod-slide-cont">
+            <div class="mod-slide-panel" id="js_index_zxhm_list">
+            </div>
+            <div style="display: block;" class="load-img"></div>
+        </div>
+        <a class="mod-slide-btn mod-slide-btn-prev" href="javascript:void(0);" style="display: none"><i>&lt;</i></a>
+        <a class="mod-slide-btn mod-slide-btn-next" href="javascript:void(0);" style="display: none"><i>&gt;</i></a>
+    </div>
+    <div class="no-hemai-data hide" id="js_hemai_no_data">
+        <div class="no-data-img"></div>
+        <div class="no-data-main">
+            暂无方案，去APP上玩玩吧！<a href="/m.html?bc_tag=40094.15.1" target="_blank">去下载APP&gt;&gt;</a>
+        </div>
+    </div>
+    <!-- E 合买轮播 -->
+</div>
+<!-- E 最新合买 -->
+    <!-- S 彩票资讯 -->
+    <div class="page-item cp-news">
+        <h2 class="title"><i class="ui-icon icon-dot"></i>彩票资讯</h2>
+        <a target="_blank" href="/v1.0/news.html?bc_tag=40094.3.46" title="彩票咨询" class="link-more">更多</a>
+        <ul class="news-list clearfix">
+            <li class="news-list-item">
+                <div class="mod-news">
+                    <h4 class="news-t"><a target="_blank" href="/zixun/szc/">数字彩</a></h4>
+                    <ul class="cp-list-text">
+                        <!--#include virtual="/static/v1.0/index_home_2014_dig.html"-->
+                    </ul>
+                </div>
+            </li>
+            <li class="news-list-item">
+                <div class="mod-news">
+                    <h4 class="news-t"><a target="_blank" href="/zixun/jjc/">竞技彩</a></h4>
+                    <ul class="cp-list-text">
+                        <!--#include virtual="/static/v1.0/index_home_2014_ath.html"-->
+                    </ul>
+                </div>
+            </li>
+            <li class="news-list-item">
+                <div class="mod-news">
+                    <h4 class="news-t"><a target="_blank" href="/news/kp_news/">快频彩</a></h4>
+                    <ul class="cp-list-text">
+                        <!--#include virtual="/static/v1.0/index_home_2014_kp.html"-->
+                    </ul>
+                </div>
+            </li>
+        </ul>
+
+    </div>
+    <!-- E 彩票资讯 -->
+<!-- S 开奖号码 -->
+<div class="page-item kj-num">
+    <h2 class="title"><i class="ui-icon icon-dot"></i>开奖号码</h2>
+    <a target="_blank" href="/info/award/?bc_tag=40094.11.1" title="开奖信息" class="link-more">更多</a>
+    <div class="kj-cont">
+        <div id="js_prize_loading" style="display: block;" class="load-img"></div>
+        <ul id="js_prize_list">
+        </ul>
+    </div>
+</div>
+<!-- E 开奖号码 -->
+</div>
+<!-- E 楼层三 -->
+
+<!-- S 楼层四 -->
+<div class="floor forth-floor clearfix hide">
+    <!-- S 彩票资讯 -->
+    <div class="page-item cp-news">
+        <h2 class="title"><i class="ui-icon icon-dot"></i>彩票资讯</h2>
+        <a target="_blank" href="/zixun/?bc_tag=40094.3.46" title="彩票咨询" class="link-more">更多</a>
+        <ul class="news-list clearfix">
+            <li class="news-list-item">
+                <div class="mod-news">
+                    <h4 class="news-t"><a target="_blank" href="/news/sz_news/">数字彩</a></h4>
+                    <ul class="cp-list-text">
+                        <!--#include virtual="/static/v1.0/index_home_2014_dig.html"-->
+                    </ul>
+                </div>
+            </li>
+            <li class="news-list-item">
+                <div class="mod-news">
+                    <h4 class="news-t"><a target="_blank" href="/news/jj_news/">竞技彩</a></h4>
+                    <ul class="cp-list-text">
+                        <!--#include virtual="/static/v1.0/index_home_2014_ath.html"-->
+                    </ul>
+                </div>
+            </li>
+            <li class="news-list-item">
+                <div class="mod-news">
+                    <h4 class="news-t"><a target="_blank" href="/news/kp_news/">快频彩</a></h4>
+                    <ul class="cp-list-text">
+                        <!--#include virtual="/static/v1.0/index_home_2014_kp.html"-->
+                    </ul>
+                </div>
+            </li>
+        </ul>
+
+    </div>
+    <!-- E 彩票资讯 -->
+    <!-- S 名人指路 -->
+    <div class="page-item famous-guide">
+        <h2 class="title"><i class="ui-icon icon-dot"></i>名人指路</h2>
+        <a class="link-more" title="名人指导" target="_blank" href="/news/mrzl/">更多</a>
+        <div class="mod-famous-guide">
+            <ul class="cp-list-text">
+                <!--#include virtual="/static/v1.0/index_home_2014_mingren.html"-->
+            </ul>
+        </div>
+    </div>
+    <!-- E 名人指路 -->
+</div>
+<!-- E 楼层四 -->
+
+<!-- S 楼层五 -->
+<div class="app-choice">
+    <ul class="clearfix">
+        <li>
+            <div class="mod-app clearfix">
+                <img class="qrcode-img scrollLoading" data-url="http://static.gtimg.com/vd/act/ggimg/201411/ee499cbb169d.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                <div class="app-info">
+                    <h3 class="app-title">QQ彩票手机应用(app)</h3>
+                    <p class="txt">随时随地畅享购彩乐趣</p>
+                    <a href="/m.html?bc_tag=40094.15.1" target="_blank" class="ui-btn btn-default">下载到手机</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="mod-app clearfix">
+                <img class="qrcode-img scrollLoading" data-url="http://888pic.gtimg.com/images/v2.0/qqcaipiao_v2/weixin_888.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                <div class="app-info">
+                    <h3 class="app-title">QQ彩票官方微信</h3>
+                    <p class="txt">与彩票姐亲密互动，获取更多服务</p>
+                </div>
+            </div>
+        </li>
+        <li class="last-item">
+            <div class="mod-app clearfix">
+                <img class="qrcode-img scrollLoading" data-url="http://static.gtimg.com/vd/act/ggimg/201411/aa805f53bf5a.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                <div class="app-info">
+                    <h3 class="app-title">手机QQ彩票</h3>
+                    <p class="txt">手Q买彩票最易中奖</p>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+<!-- E 楼层五 -->
+
+<!-- S 首页弹窗层广告内容 -->
+<div id="screen_ad" style="display: none;">
+    <div id="box_adb_14274_10124122">
+        <script type="text/javascript">
+            var _ADB_Crystal_Data=_ADB_Crystal_Data||[];
+            _ADB_Crystal_Data.unshift({'id':'box_adb_14274_10124122','url':'http://lb.l.qq.com/lview?loc=_adb_14274_10124122&callback=adCallback'});
+            var fun_adb_14274_10124122 = {
+                'callback':function(_ad){CP.index.showScreenPic(_ad)}
+            }||{};
+        </script>
+    </div>
+</div>
+<!-- E 首页弹窗层广告内容 -->
+
+</div>
+<!-- E 主内容区 -->
+
+<!--#include virtual="/v1.0/include_html/qq_caipiao/footer_v3.shtml" -->
+<!--#include virtual="/v1.0/inc/servertime_js.shtml" -->
+<script type="text/javascript">
+    //开奖公告
+    var all_1=<!--#include virtual="/static/info/interface/internal/award/all_1.js"-->;
+    //累计中奖
+    var prizeStats=<!--#include virtual="/static/info/interface/internal/index/indexdata.js"-->;
+
+    (function () {
+        <!--#include file="/static/issue/current_qihao_all.js"-->
+        window['current_qihao_all'] = issueInfo;
+    })();
+
+    <!--#include file="/static/kp_current_qihao.js"-->
+
+    <!--#include file="/static/jczq_v1/public/sports_hot_cft_data.js"-->
+    <!--#include file="/new_js/index/mobile_jump.js"-->
+
+</script>
+<!--#include virtual="/v1.0/sinclude/entra/index.entrance.shtml"-->
+<script type="application/javascript">speedTimePoint.push(new Date ());</script>
+</body>
+</html>
